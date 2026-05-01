@@ -140,3 +140,13 @@ AI-Homework-Grading/
 └── pom.xml
 ```
 
+## 成果展示
+
+<img width="1896" height="587" alt="b53723de-b786-4112-a8a8-b1182899b881" src="https://github.com/user-attachments/assets/033795d9-5e84-41f6-8925-863bd1055ad2" />
+<img width="687" height="445" alt="d68eb56a-ef63-48d4-b3eb-3548afe75800" src="https://github.com/user-attachments/assets/274c37a9-f93e-432c-9920-f94658113c61" />
+<img width="769" height="551" alt="d631f2aa-f0ac-439e-a722-6747cee1158c" src="https://github.com/user-attachments/assets/376c008d-d841-4b03-bb82-1cb8a1550657" />
+<img width="1889" height="574" alt="d91e626d-34c6-4e07-9fd6-61a03c2ce3f9" src="https://github.com/user-attachments/assets/f326d06f-bbec-42fc-83ff-9b18b185a620" />
+<img width="617" height="694" alt="a19b5651-4e3b-4f2e-9352-7b03cfd1360b" src="https://github.com/user-attachments/assets/2ce59b4d-42db-4dd7-82d2-60d793f21568" />
+
+
+
