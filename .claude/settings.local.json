@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s http://localhost:8080/api/homework/all)",
+      "Bash(npm start *)",
+      "Bash(echo \"PID=$!\")",
+      "Bash(npm install *)",
+      "Bash(npx tailwindcss *)",
+      "Bash(./mvnw package *)",
+      "Bash(pkill -f \"AI-Homework-Grading\")",
+      "Bash(java -jar E:/AI-Homework-Grading/target/AI-Homework-Grading-0.0.1-SNAPSHOT.jar)",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(f'题目数: {len\\(d\\)}'\\); [print\\(f'  {r[\\\\\"questionId\\\\\"]} | {r[\\\\\"status\\\\\"]} | confidence={r[\\\\\"confidence\\\\\"]}'\\) for r in d]\")",
+      "Bash(echo \"后端 PID=$!\")",
+      "Bash(pkill -f \"react-scripts\")",
+      "Bash(echo \"前端 PID=$!\")",
+      "Bash(curl *)",
+      "Bash(python3 *)"
+    ]
+  }
+}
